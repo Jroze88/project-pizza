@@ -1,0 +1,21 @@
+{
+  "name": "project-pizza",
+  "version": "1.0.0",
+  "description": "free pizza tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pizza",
+    "free",
+    "fuckitup"
+  ],
+  "author": "Emilio, Kevin, Andy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
