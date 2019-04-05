@@ -1,21 +1,14 @@
 {
-  "name": "project-pizza",
+  "name": "project-awesome",
   "version": "1.0.0",
-  "description": "free pizza tracker",
+  "description": "School Project 02",
   "main": "server.js",
   "scripts": {
-    "test": "npm run",
-    "start": "node server.js"
+    "test": "npm run"
   },
-  "keywords": [
-    "pizza",
-    "free",
-    "fuckitup"
-  ],
-  "author": "Emilio, Kevin, Andy",
+  "author": "Kevin Augustin",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "path": "^0.12.7"
+    "cheerio": "^1.0.0-rc.2"
   }
 }
